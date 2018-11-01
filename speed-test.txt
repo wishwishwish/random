@@ -1,0 +1,158 @@
+Speed tests run on: 	 2018-04-15 11:05:30 +0000 
+App version: 	 6.7.2 (3576) 
+OS version: 	 OS X Version 10.13.4 (Build 17E199) 
+
+Location                      Latency [ms]        Download Speed [kbps]    Speed Index    
+Hong Kong - 3                 37                  (null)                         n/a            
+Taiwan - 1                    57                  (null)                         n/a            
+Hong Kong - 4                 116                 (null)                         n/a            
+Japan - Tokyo - 2             130                 2,173 kbps               79             
+Hong Kong - 1                 143                 (null)                         n/a            
+USA - Los Angeles via HK      182                 (null)                         n/a            
+USA - Santa Monica            185                 (null)                         n/a            
+USA - Hollywood               187                 (null)                         n/a            
+USA - Los Angeles - 3         188                 (null)                         n/a            
+USA - San Jose                191                 3,054 kbps               76             
+USA - Los Angeles - 2         193                 6,396 kbps               158            
+USA - Los Angeles             195                 3,240 kbps               79             
+USA - Los Angeles - 1         205                 3,322 kbps               77             
+Singapore - CBD               210                 375 kbps                 8              
+USA - Denver                  218                 2,997 kbps               65             
+Germany - Nuremberg           222                 2,020 kbps               43             
+Canada - Vancouver            226                 1,662 kbps               35             
+USA - Atlanta                 229                 2,008 kbps               41             
+USA - Dallas                  232                 1,188 kbps               24             
+USA - Chicago                 237                 1,650 kbps               33             
+UK - East London              237                 (null)                         n/a            
+Kenya                         238                 5,202 kbps               104            
+Ireland                       239                 3,894 kbps               77             
+UK - Docklands                239                 1,263 kbps               25             
+Kyrgyzstan                    240                 877 kbps                 17             
+USA - Kansas City             241                 1,391 kbps               27             
+Germany - Frankfurt - 2       244                 1,963 kbps               38             
+Germany - Frankfurt - 1       252                 2,168 kbps               40             
+USA - San Francisco - 2       252                 1,712 kbps               32             
+Canada - Toronto              253                 1,226 kbps               23             
+Denmark                       254                 1,366 kbps               25             
+USA - Phoenix                 258                 1,091 kbps               20             
+Latvia                        258                 625 kbps                 11             
+Switzerland                   258                 547 kbps                 10             
+Lithuania                     261                 2,000 kbps               36             
+France - Strasbourg           260                 1,314 kbps               24             
+UK - Berkshire                262                 1,208 kbps               22             
+USA - New Jersey - 2          262                 2,089 kbps               38             
+USA - Miami - 2               263                 706 kbps                 12             
+Canada - Toronto - 2          265                 1,533 kbps               27             
+UK - Berkshire - 2            267                 2,083 kbps               37             
+Sweden                        268                 1,334 kbps               23             
+USA - Dallas - 2              267                 1,200 kbps               21             
+Mexico                        268                 997 kbps                 17             
+USA - New Jersey - 3          270                 3,845 kbps               68             
+Germany - Darmstadt           270                 2,181 kbps               38             
+Croatia                       272                 668 kbps                 11             
+Czech Republic                275                 4,885 kbps               84             
+Belgium                       275                 2,533 kbps               43             
+Bulgaria                      276                 2,016 kbps               34             
+USA - Tampa - 1               276                 2,000 kbps               34             
+Romania                       278                 3,379 kbps               57             
+Hungary                       279                 1,275 kbps               21             
+Malaysia                      280                 3,129 kbps               53             
+USA - New Jersey - 1          281                 1,333 kbps               22             
+India (via UK)                280                 258 kbps                 4              
+UK - Kent                     281                 258 kbps                 4              
+USA - Seattle                 284                 1,465 kbps               24             
+Japan - Tokyo - 1             283                 (null)                         n/a            
+USA - San Francisco via HK    285                 338 kbps                 5              
+South Korea                   285                 1,333 kbps               22             
+Slovenia                      286                 909 kbps                 15             
+Hong Kong - 2                 292                 2,668 kbps               43             
+Azerbaijan                    292                 1,878 kbps               30             
+Switzerland - 2               296                 667 kbps                 10             
+Cyprus                        298                 1,600 kbps               25             
+Serbia                        298                 1,150 kbps               18             
+Philippines (via Singapore)   299                 81 kbps                  1              
+Pakistan                      307                 745 kbps                 11             
+Sri Lanka                     309                 857 kbps                 13             
+Laos                          309                 698 kbps                 10             
+Estonia                       310                 1,327 kbps               20             
+Thailand                      310                 1,138 kbps               17             
+USA - San Francisco           313                 691 kbps                 10             
+Bhutan                        313                 558 kbps                 8              
+Singapore - Jurong            313                 (null)                         n/a            
+Spain - Barcelona             315                 290 kbps                 4              
+Bangladesh                    314                 193 kbps                 2              
+Georgia                       315                 926 kbps                 14             
+Macau                         318                 1,155 kbps               17             
+Portugal                      319                 480 kbps                 7              
+Myanmar                       319                 490 kbps                 7              
+Brunei                        322                 364 kbps                 5              
+USA - New York                322                 1,998 kbps               29             
+Ukraine                       322                 1,091 kbps               16             
+Cambodia                      323                 923 kbps                 13             
+Indonesia                     324                 262 kbps                 3              
+USA - Miami                   325                 533 kbps                 7              
+USA - Virginia                327                 2,228 kbps               32             
+USA - Salt Lake City          329                 2,181 kbps               31             
+Colombia                      331                 2,126 kbps               30             
+New Zealand                   331                 2,440 kbps               35             
+Russia                        333                 1,050 kbps               15             
+Uruguay                       333                 2,052 kbps               29             
+Guatemala                     335                 2,402 kbps               34             
+Venezuela                     338                 1,598 kbps               22             
+Moldova                       339                 518 kbps                 7              
+Ecuador                       340                 13,893 kbps              195            
+India - Chennai               341                 296 kbps                 4              
+Australia - Sydney            343                 812 kbps                 11             
+Slovakia                      345                 1,229 kbps               17             
+USA - New York - 2            346                 3,930 kbps               54             
+Brazil                        347                 1,015 kbps               13             
+France - Paris - 1            348                 404 kbps                 5              
+Costa Rica                    348                 600 kbps                 8              
+UK - London                   351                 1,965 kbps               26             
+Italy - Milan                 350                 1,927 kbps               26             
+Austria                       351                 688 kbps                 9              
+Brazil - 2                    353                 1,598 kbps               21             
+Greece                        353                 317 kbps                 4              
+Finland                       358                 912 kbps                 12             
+Vietnam                       360                 385 kbps                 5              
+USA - Washington DC - 2       360                 1,758 kbps               23             
+Sweden - 2                    367                 1,200 kbps               15             
+Poland                        368                 1,500 kbps               19             
+Italy - Cosenza               371                 1,263 kbps               16             
+Spain - Madrid                374                 260 kbps                 3              
+Bahamas                       376                 1,035 kbps               13             
+Albania                       376                 720 kbps                 9              
+Luxembourg                    380                 906 kbps                 11             
+Australia - Sydney - 2        384                 916 kbps                 11             
+Israel                        386                 1,613 kbps               19             
+South Africa                  386                 461 kbps                 5              
+Australia - Perth             388                 253 kbps                 3              
+Algeria                       391                 5 kbps                   n/a            
+USA - Washington DC           397                 1,262 kbps               15             
+Australia - Melbourne         401                 125 kbps                 1              
+Canada - Montreal             402                 1,333 kbps               15             
+Australia - Brisbane          407                 1,985 kbps               23             
+Egypt                         407                 1,384 kbps               16             
+India - Mumbai - 1            412                 2,463 kbps               28             
+Norway                        411                 109 kbps                 1              
+Iceland                       421                 600 kbps                 6              
+Peru                          463                 436 kbps                 4              
+Argentina                     464                 556 kbps                 5              
+France - Paris - 2            565                 2 kbps                   n/a            
+Turkey                        566                 124 kbps                 1              
+Netherlands - The Hague       570                 5 kbps                   n/a            
+Netherlands - Rotterdam       583                 6 kbps                   n/a            
+Netherlands - Amsterdam       586                 58 kbps                  n/a            
+Mongolia                      590                 1,990 kbps               16             
+Liechtenstein                 629                 1,991 kbps               15             
+Belarus                       629                 2 kbps                   n/a            
+Macedonia                     638                 231 kbps                 1              
+Montenegro                    639                 1 kbps                   n/a            
+Malta                         644                 (null)                         n/a            
+Bosnia and Herzegovina        650                 (null)                         n/a            
+Isle of Man                   654                 9 kbps                   n/a            
+Armenia                       655                 288 kbps                 2              
+Andorra                       655                 43 kbps                  n/a            
+Jersey                        658                 234 kbps                 1              
+Monaco                        666                 (null)                         n/a            
+Chile                         failed              1,500 kbps               n/a            
